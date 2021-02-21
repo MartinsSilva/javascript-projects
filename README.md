@@ -1,7 +1,7 @@
 # javascript-projects
 Javascript projects that i built for practice, containing my projects and ideas for those who want to learn javascript too!
 
-If you wanna contribute, clone the repository in your workspace and commit your changes on branch #public
+If you wanna contribute, clone the repository in your workspace and commit your changes on branch public
 
 Projects pathing: 
 
